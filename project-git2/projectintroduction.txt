@@ -1,2 +1,17 @@
 
  ''Health is  the greatest wealth '' . we all know health play a great role in our lifestyle . My application  focuses  on both physical and mental health  . Nowadays everyone is busy in their day to day work and in their busy routine they forget to take care of their body . This app make them aware  and help them  to pay attention towards their health care
+App Name - R- fitness  
+
+Functions – 1. You can check your pulse rate
+
+2. you can check how many steps you walk
+
+3. you can check your heartbeat
+
+4.. You can check your oxygen level
+
+5. you can make reminders 
+
+6. you can make groups
+
+7. you can make daily workout  schedule
